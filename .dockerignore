@@ -1,0 +1,30 @@
+# Ignore local Python environment
+venv/
+.venv/
+
+# Ignore git metadata
+.git
+.gitignore
+
+# Ignore local cache / bytecode
+__pycache__/
+*.py[cod]
+
+# Ignore data files (if large, you might mount them instead)
+data/
+*.pkl
+*.joblib
+
+# OS / IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+*.env
+env
+
+# Logs
+*.log
