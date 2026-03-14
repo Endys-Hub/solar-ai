@@ -81,6 +81,8 @@ This will launch a simple dashboard where you can:
 2. See predicted solar energy output
 3. Get recommended times for energy usage
 
+### Sample Web App
+
 ![Sample of Web App](images/solar_app_screenshot.png)
 
 
