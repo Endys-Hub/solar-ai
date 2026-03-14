@@ -1,6 +1,6 @@
 # solar-sense-ai
 
-Building AI Project
+### Building AI Project
 
 ## Summary
 SolarSense AI predicts daily solar energy production using weather data and recommends the best times to use electricity-heavy appliances. This helps households with solar systems manage energy more efficiently and reduce dependence on unreliable grid power.
